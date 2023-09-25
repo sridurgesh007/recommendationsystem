@@ -1,6 +1,6 @@
 # Recommendation Analytics Project
 
-![]
+<img width="315" alt="Screenshot 2023-09-26 005319" src="https://github.com/sridurgesh007/recommendationsystem/assets/115580880/fba22a11-14a0-4e39-bc8e-b0d2c08006ec">
 
 ## Overview
 
